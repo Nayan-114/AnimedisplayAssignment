@@ -1,11 +1,11 @@
-# Anime Display App
+# Top Anime List App
 
 An Android app built with **Jetpack Compose**, **MVVM**, and **Clean Architecture**
 
 ---
 ## Features:-
 
-### Home Screen (Anime List)
+### Anime List Screen
 - Fetches top anime list from `https://api.jikan.moe/v4/top/anime`
 - Displays a list of top anime fetched from the Jikan API
 - Scrollable list of anime using `LazyColumn`
